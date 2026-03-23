@@ -1,0 +1,15 @@
+I012,Sony AA Batteries (2 Pack),Sony,Electronics,U:\AIDS\SEM 2\Programming Fundamentals 1601\Assignment\DemoTry\src\main\resources\img\I012.jpeg,1595.4,0,1,2024-09-30,D007;D022;D030
+I013,Just Me Perfume (50ml),JM,Personal Care,U:\AIDS\SEM 2\Programming Fundamentals 1601\Assignment\DemoTry\src\main\resources\img\I013.jpeg,250000.0,20,25,2025-07-23,D005
+I014,Mehendi Tattoo Kit,Meh,Beauty,U:\AIDS\SEM 2\Programming Fundamentals 1601\Assignment\DemoTry\src\main\resources\img\I014.jpg,200.0,1000,500,2025-07-23,D010
+I015,Bottled Mineral Water (1.5L),Indeg,Beverages,U:\AIDS\SEM 2\Programming Fundamentals 1601\Assignment\DemoTry\src\main\resources\img\I015.jpeg,1200000000.0,3,5,2025-07-23,D000
+I016,Test Pack of Spices (Mixed),TestBrand,Grocery,U:\AIDS\SEM 2\Programming Fundamentals 1601\Assignment\DemoTry\src\main\resources\img\default.jpeg,210000.0,10,50,2025-07-23,D002
+I002,Apple Juice (1L),Apple,Beverages,U:\AIDS\SEM 2\Programming Fundamentals 1601\Assignment\DemoTry\src\main\resources\img\I002.jpeg,1237.42,60,5,2024-10-09,D001;D006;D009;D011;D013;D017;D021;D024
+I003,HP Powerbank (10 000mAh),HP,Electronics,U:\AIDS\SEM 2\Programming Fundamentals 1601\Assignment\DemoTry\src\main\resources\img\I003.jpeg,1194.53,0,1,2024-10-17,D002;D011;D021;D026
+I004,Dell Copy Paper (500 Sheets),Dell,Stationery,U:\AIDS\SEM 2\Programming Fundamentals 1601\Assignment\DemoTry\src\main\resources\img\I004.jpeg,819.72,71,6,2024-11-04,D003;D015;D018;D027
+I005,Samsung Smart LED Bulb,Samsung,Home Goods,U:\AIDS\SEM 2\Programming Fundamentals 1601\Assignment\DemoTry\src\main\resources\img\I005.jpg,1023.29,10,4,2024-08-25,D001;D016;D017;D020;D024;D029
+I006,Apple Cinnamon Cookies (Box),Apple,Snacks,U:\AIDS\SEM 2\Programming Fundamentals 1601\Assignment\DemoTry\src\main\resources\img\I006.jpg,775.97,83,10,2024-11-26,D003;D014;D016;D021;D025;D028
+I007,HP Energy Bar (5 Pack),HP,Snacks,U:\AIDS\SEM 2\Programming Fundamentals 1601\Assignment\DemoTry\src\main\resources\img\I007.jpg,1902.08,2,3,2024-08-06,D004;D013;D019;D023;D027
+I008,LG Dishwashing Liquid (1L),LG,Cleaning,U:\AIDS\SEM 2\Programming Fundamentals 1601\Assignment\DemoTry\src\main\resources\img\I008.jpg,1484.58,99,9,2024-10-31,D004;D012;D023;D028
+I009,Sony Cheese Slices (200g),Sony,Dairy,U:\AIDS\SEM 2\Programming Fundamentals 1601\Assignment\DemoTry\src\main\resources\img\I009.jpg,682.0,89,5,2024-07-24,D005;D012;D017;D025;D029
+I010,HP Instant Coffee Jar (100g),HP,Beverages,U:\AIDS\SEM 2\Programming Fundamentals 1601\Assignment\DemoTry\src\main\resources\img\I010.jpg,769.15,22,2,2024-11-13,D006;D014;D020;D024;D030
+I011,Samsung Green Tea (20 Bags),Samsung,Beverages,U:\AIDS\SEM 2\Programming Fundamentals 1601\Assignment\DemoTry\src\main\resources\img\I011.jpg,1385.41,93,7,2024-11-25,D005;D014;D018;D026;D029

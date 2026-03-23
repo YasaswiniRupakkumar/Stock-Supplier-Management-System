@@ -1,0 +1,30 @@
+D001,Tech World,Colombo,tech@tw.lk,0771234567,I002;I005;I001
+D002,Smart Traders,Kandy,smart@traders.lk,0779876543,I003;I002
+D003,ElectroMax,Galle,electro@max.lk,0775557777,I004;I006
+D004,DailyNeeds,Jaffna,contact@dn.lk,0766668888,I007;I008
+D005,SuperGadgets,Negombo,sales@sg.lk,0754321987,I009;I011
+D006,Digital Hub,Batticaloa,digital@hub.lk,0781239876,I002;I010;I005
+D007,FutureTech,Matara,info@futuretech.lk,0773214569,I001;I012;I008
+D008,TechnoMart,Kurunegala,support@technomart.lk,0765437890,I003;I006
+D009,SmartZone,Anuradhapura,sales@smartzone.lk,0753456678,I002;I007;I009
+D010,NextGen,Polonnaruwa,nextgen@ng.lk,0745551234,I010;I001;I004
+D011,ElectroHouse,Badulla,electro@house.lk,0771002003,I006;I003;I002
+D012,InnovateX,Hambantota,info@innovatex.lk,0787654321,I001;I009;I008
+D013,Tech360,Trincomalee,contact@tech360.lk,0752223344,I007;I002
+D014,GadgetWorks,Kalutara,gadget@works.lk,0778765432,I010;I011;I006
+D015,Digital Sphere,Nuwara Eliya,dsphere@ds.lk,0769988776,I005;I004;I003
+D016,Smart Connections,Colombo,smart@connections.lk,0755678990,I012;I006
+D017,CityTech,Kandy,city@tech.lk,0773434343,I009;I002;I005
+D018,EconoTraders,Galle,econo@traders.lk,0746547890,I001;I004;I011
+D019,Tech Bazaar,Jaffna,bazaar@tech.lk,0784343434,I007;I008;I003
+D020,MicroSolutions,Negombo,micro@solutions.lk,0761112233,I010;I005
+D021,Gadget King,Batticaloa,king@gadgets.lk,0778889990,I006;I003;I002
+D022,UrbanTech,Matara,urban@tech.lk,0755550001,I001;I012
+D023,SmartDeals,Kurunegala,deals@smart.lk,0763332211,I004;I008;I007
+D024,Tech Center,Anuradhapura,center@tech.lk,0789997776,I002;I005;I010
+D025,DigiPoint,Polonnaruwa,point@digi.lk,0756663333,I001;I009;I006
+D026,TrendyGadgets,Badulla,trendy@gadgets.lk,0772224444,I003;I011
+D027,InnoTech,Hambantota,inno@tech.lk,0747778888,I002;I004;I007
+D028,GigaMart,Trincomalee,giga@mart.lk,0783459876,I006;I008
+D029,TechDirect,Kalutara,direct@tech.lk,0759998888,I005;I009;I011
+D030,DevicePro,Nuwara Eliya,device@pro.lk,0764321234,I001;I010;I012

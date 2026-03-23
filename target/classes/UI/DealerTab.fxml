@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+
+<VBox spacing="15" xmlns:fx="http://javafx.com/fxml" fx:controller="Controllers.DealerController">
+    <padding>
+        <Insets top="10" right="10" bottom="10" left="10"/>
+    </padding>
+
+    <Label text="Dealer Management" style="-fx-font-size: 16px;" />
+
+    <HBox spacing="10">
+        <Button text="Select 4 Random Dealers" onAction="#onSelectRandomDealers"/>
+        <Button text="Show Items of Selected Dealer" onAction="#onShowDealerItems"/>
+    </HBox>
+
+    <!-- Dealer Table -->
+    <TableView fx:id="dealerTable" prefHeight="200">
+        <columns>
+            <TableColumn fx:id="dealerIdCol" text="Dealer ID"/>
+            <TableColumn fx:id="dealerNameCol" text="Name"/>
+            <TableColumn fx:id="dealerLocationCol" text="Location"/>
+            <TableColumn fx:id="dealerEmailCol" text="Email"/>
+            <TableColumn fx:id="dealerPhoneCol" text="Phone"/>
+        </columns>
+    </TableView>
+
+    <Label text="Items by Selected Dealer:" />
+
+    <!-- Dealer Items Table -->
+    <TableView fx:id="dealerItemsTable" prefHeight="200">
+        <columns>
+            <TableColumn fx:id="itemCodeCol" text="Item Code"/>
+            <TableColumn fx:id="itemNameCol" text="Name"/>
+            <TableColumn fx:id="itemCategoryCol" text="Category"/>
+            <TableColumn fx:id="itemQuantityCol" text="Quantity"/>
+        </columns>
+    </TableView>
+</VBox>
